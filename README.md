@@ -74,4 +74,4 @@
 # Связь:
 В случае, если с проектом возникнут неполадки или проблемы, прошу обратиться:
 - Telegram: [@shtirmann](https://t.me/Shtirmann)
-- VK: [@shtirmann]https://vk.com/shtirmann
+- VK: [@shtirmann](https://vk.com/shtirmann)
